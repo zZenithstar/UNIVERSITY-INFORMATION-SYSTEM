@@ -1,0 +1,4 @@
+25030101,ibrahimsifre,ibrahim,yıldız,ibrahimamasuicen@gmail.com,bilgisayar_muhendisligi,1,A,Matematik:70-12-100|Fizik:50-50-100|Ingilizce:50-30-80|Programlama_1:70-100-0|Bilgisayar_Muhendisligi_giris:85-15-95
+
+
+25030102,hasansifre,hasan,yıldız,hasanmama@gmail.com,bilgisayar_muhendisligi,2,B
